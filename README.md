@@ -1,0 +1,2 @@
+# jambot
+A music assistant
